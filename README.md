@@ -1,4 +1,4 @@
-### I'm Shubham Garg 
+### Hi there, I'm Shubham Garg :wave:
 
 ## I'm a Student and a Developer!
 - 🔭 I’m currently working on my programming skills!
@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on projects related to my field of interests.
 - 😄 Pronouns: He/His/Him
 
-<br />
 
 ### Technologies and Tools:
 
@@ -19,20 +18,19 @@
 <img align="left" alt="SQL" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/SQL.png" title="SQL"/>
 <img align="left" alt="C++" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C++.png" title="C++"/>
 <img align="left" alt="C" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C.png" title="C"/>
-</br>
-</br>
 
----
+
 
 <div align="center">
 
 <img  alt="shub-garg's Stats" src="https://github-readme-stats.vercel.app/api?username=shub-garg&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
 <img  alt="shub-garg's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub-garg&layout=compact&theme=radical" title="Top Language"/>
 
-</div>
 
+</div>
 
 [linkedin]: https://www.linkedin.com/in/shubham-garg-03a848190/
 [Gmail]: shubhamsg123456@gmail.com
+
 
 
