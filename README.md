@@ -8,7 +8,7 @@
 
 
 ### Technologies and Tools:
-
+<div>
 <img align="left" alt="Python" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/Python.png" title="Python"/>
 <img align="left" alt="ML" width="50px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/ML.png" title="ML"/>
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/javaScript.png" title="JavaScript"/>
@@ -18,7 +18,7 @@
 <img align="left" alt="SQL" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/SQL.png" title="SQL"/>
 <img align="left" alt="C++" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C++.png" title="C++"/>
 <img align="left" alt="C" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C.png" title="C"/>
-
+</div>
 </br>
 
 
