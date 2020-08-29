@@ -13,8 +13,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/javaScript.png" title="JavaScript"/>
 <img align="left" alt="HTML" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/HTML.png" title="HTML"/>
 <img align="left" alt="CSS" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/CSS.png" title="CSS"/>
-<img align="left" alt="PowerBI" width="70px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/BI.png" title="PowerBI"/>
-<img align="left" alt="SQL" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/SQL.png" title="SQL"/>
+<img align="left" alt="PowerBI" width="85px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/BI.png" title="PowerBI"/>
+<img align="left" alt="SQL" width="60px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/SQL.png" title="SQL"/>
 <img align="left" alt="C++" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C++.png" title="C++"/>
 <img align="left" alt="C" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C.png" title="C"/>
 </br>
