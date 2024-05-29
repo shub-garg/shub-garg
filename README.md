@@ -24,7 +24,6 @@ Feel free to connect with me!
 <img align="left" alt="PowerBI" width="85px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/BI.png" title="PowerBI"/>
 <img align="left" alt="SQL" width="60px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/SQL.png" title="SQL"/>
 <img align="left" alt="C++" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C++.png" title="C++"/>
-<img align="left" alt="C" width="26px" src="https://github.com/shub-garg/shub-garg/blob/master/Icons/C.png" title="C"/>
 </br>
 </br>
 
