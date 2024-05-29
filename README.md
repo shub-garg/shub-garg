@@ -1,10 +1,16 @@
-### Hi there, I'm Shubham Garg :wave:
+### Hi there, I'm Shubham Garg 👋
 
-## I'm a Student and a Developer!
-- 🔭 I’m currently working on my programming skills!
-- 🌱 I’m learning Machine Learning and Data Analysis.
-- 👯 I’m looking to collaborate on projects related to my field of interests.
+## I'm a Graduate Student and Developer!
+- 🔭 I’m currently working on AI-enabled solutions for scientific research!
+- 🌱 I’m diving deep into Machine Learning, Computer Vision, and Data Science.
+- 👯 I’m looking to collaborate on projects involving biomedical image analysis, mental health diagnosis, and surveillance systems.
+- 💼 I have experience with frameworks like PyTorch, TensorFlow, and advanced algorithms like Swin Transformers and U-Nets.
+- ☁️ Proficient in deploying applications on AWS and Microsoft Azure.
+- 🎓 Planning to pursue a PhD next year.
 - 😄 Pronouns: He/His/Him
+
+Feel free to connect with me!
+
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="700" height="400"/>
 
