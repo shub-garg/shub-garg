@@ -23,14 +23,14 @@
 </br>
 
 ---
-
+<!---
 <div align="center">
 
 <img  alt="shub-garg's Stats" src="https://github-readme-stats.vercel.app/api?username=shub-garg&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
 <img  alt="shub-garg's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shub-garg&layout=compact&theme=radical" title="Top Language"/>
 
 </div>
-
+-->
 
 [linkedin]: https://www.linkedin.com/in/shubham-garg-03a848190/
 [Gmail]: shubhamsg123456@gmail.com
